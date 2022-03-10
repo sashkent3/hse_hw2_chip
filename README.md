@@ -24,9 +24,9 @@ https://colab.research.google.com/drive/1zt62_MEbPiSGCmoxVzBCBJIB_JuOjLSN?usp=sh
 __Ответ на вопрос из ноутбука:__ большинство чтений (~88%) оказалось не выравнено из-за того, что выравнивание производилось всего на одну хромосому, а не на весь геном для экономии ресурсов.
 
 # Диаграммы
+![](https://raw.githubusercontent.com/sashkent3/hse_hw2_chip/main/venn/Intervene_venn-1.png)
+![](https://raw.githubusercontent.com/sashkent3/hse_hw2_chip/main/venn/Intervene_venn-2.png)
+![](https://raw.githubusercontent.com/sashkent3/hse_hw2_chip/main/venn/Intervene_venn-3.png)
+![](https://raw.githubusercontent.com/sashkent3/hse_hw2_chip/main/venn/Intervene_venn-4.png)
 
-<object data="https://raw.githubusercontent.com/sashkent3/hse_hw2_chip/main/venn/Intervene_venn-1.pdf" type="application/pdf">
-    <embed src="https://raw.githubusercontent.com/sashkent3/hse_hw2_chip/main/venn/Intervene_venn-1.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://raw.githubusercontent.com/sashkent3/hse_hw2_chip/main/venn/Intervene_venn-1.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+__Ответ на вопрос из ноутбука:__ можно видеть, что общее число пиков в наших данных значительно меньше. Скорее всего это опять связано с тем, что мы рассматриваем только одну хромосому из всего генома. В то же время среди пиков, найденных в наших экспериментах, большинство отсуствует в эксперименты с encodeproject. Возможно это вызвано какой-то дополнительной предобработкой данных или отличающимися параметрами в процессе.
